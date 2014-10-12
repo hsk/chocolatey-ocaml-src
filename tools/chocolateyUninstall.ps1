@@ -1,0 +1,2 @@
+C:\OCaml\uninstall.exe
+
